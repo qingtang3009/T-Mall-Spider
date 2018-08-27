@@ -1,0 +1,1 @@
+天猫爬虫：get_id用于获得天猫页面商品id。首先运行update_ip_pool更新IP池，再运行TM_Spider爬取数据。
